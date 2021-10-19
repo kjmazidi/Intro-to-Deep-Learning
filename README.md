@@ -20,4 +20,4 @@ Course Outline:
 12. GANs and SNNs
 
 
-Our appreciation to Google for a grant and other course support. 
+Our appreciation to Google for the grant and other course support. 
