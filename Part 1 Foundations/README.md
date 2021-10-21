@@ -3,7 +3,7 @@
 
 Outline:
 
-* Python Overview
+* Python 
 * Python Libraries for ML
 * Review of linear models
 * Review of metrics for classification and regression
