@@ -5,7 +5,7 @@
 
 Notebooks: 
 
-* 1a_Data_Preparation: a look at data structures for deep learning
+* [1a_Data_Preparation](https://drive.google.com/file/d/15SAReqjgepiee-DjoHJvrR1UGoy60qV-/view?usp=sharing): a look at data structures for deep learning
 * 1b_Keras_Sequential_Model: MNIST Sequential model using Keras API and Functional API
 
 ### 5. TF Possibilities
