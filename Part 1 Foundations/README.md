@@ -32,6 +32,11 @@ If you just need a quick Python refresher, review these notebooks:
 
 ## Python Libraries for Machine Learning
 
+* NumPy
+* Pandas
+* Seaborn
+* Sklearn
+
 ## Linear Regression and Metrics
 
 ## Logistic Regression and Metrics
