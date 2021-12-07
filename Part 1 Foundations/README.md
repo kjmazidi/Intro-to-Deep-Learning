@@ -9,10 +9,6 @@ Outline:
 * Review of metrics for classification and regression
 * Data wrangling
 
-We will be using Google Colab for this course. If you are new to colab, see this notebook:
-
-* [Set up Google Colab](https://drive.google.com/file/d/10bF_OYgOkKT2XPGL-Q7k37QzB_12CJ5z/view?usp=sharing)
-
 ## Python 
 
 If you are new to Python, review the following notebooks:
