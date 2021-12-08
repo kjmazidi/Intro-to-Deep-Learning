@@ -1,13 +1,15 @@
 # Part 1: Foundations
 
+For best results, download the notebooks and data to your computer, move to GDrive and run from there. 
 
-Outline:
+
+# Outline:
 
 * Python 
 * Python Libraries for ML
-* Review of linear models
-* Review of metrics for classification and regression
-* Data wrangling
+* Linear Regression
+* Logistic Regression
+* Neural Network
 
 ## Python 
 
