@@ -39,7 +39,13 @@ If you just need a quick Python refresher, review these notebooks:
 
 ## Linear Regression and Metrics
 
+* Linear Regression with sklearn
+
 ## Logistic Regression and Metrics
 
-## Data Wranging
+* Logistic Regression with sklearn
+
+## Neural Network
+
+* Neural Network with sklearn
 
