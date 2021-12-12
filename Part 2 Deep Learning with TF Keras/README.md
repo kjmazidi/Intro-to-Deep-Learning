@@ -3,9 +3,8 @@
 
 ### 4. Sequential Models; Keras API and Functional API
 
-Notebooks: 
 
-* <a href="https://drive.google.com/file/d/15SAReqjgepiee-DjoHJvrR1UGoy60qV-/view?usp=sharing" target="_blank">1a-Data Preparation</a>: a look at data structures for deep learning
+* 1a-Data Preparation: a look at data structures for deep learning
 * 1b_Keras_Sequential_Model: MNIST Sequential model using Keras API and Functional API
 
 ### 5. TF Possibilities
